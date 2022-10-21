@@ -1,4 +1,4 @@
-# <a > <img src="https://img.icons8.com/color/480/html-5--v1.png" alt="HTML5" width=4% heigth=4% ></img></a> **Advanced HTML**
+# <a > <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="HTML5" width=3% heigth=3% ></img></a> **Advanced HTML**
 
 In this section you can find tasks and projects of Fundations: 2nd trimesters, of Software Engineer career at Holberton School.
 
