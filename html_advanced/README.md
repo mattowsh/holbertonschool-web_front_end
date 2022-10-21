@@ -17,6 +17,8 @@ In this section you can find tasks and projects of Fundations: 2nd trimesters, o
 - How to embed external content
 - How to correctly structure an HTML page
 
+<hr>
+<br>
 <a> <img src="https://apply.holbertonschool.com/holberton-logo.png" alt="Holberton logo" width=18% heigth=18% ></img></a>
 
 Montevideo, Uruguay.
