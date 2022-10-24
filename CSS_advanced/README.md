@@ -1,4 +1,4 @@
-# <a > <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="CSS" width=3% heigth=3% ></img></a> **Advanced CSS**
+# <a > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="CSS" width=3% heigth=3% ></img></a> **Advanced CSS**
 
 In this section you can find tasks and projects of Fundations: 2nd trimesters, of Software Engineer career at Holberton School.
 
